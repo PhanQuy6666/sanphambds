@@ -1,10 +1,31 @@
-h1{
+body{
+    font-size: 16px;
+    background-color: #CC99FF;
+    width: 1080px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    margin-top: 0%;
+}
+#top{
     text-align: center;
     background-color: red;
     color: gold;
+    padding: 10px 10px;
 }
 table{
     width: 100%;
+    
     border-collapse: collapse;
     background-color: bisque;
-}}
+}
+#copy{
+    float: left;
+    width: 720px;
+    background-color: #FF9933;
+}
+#foolter{
+    width: 360px;
+    float: right;
+    text-align: center;
+    background-color: 	#00EE00;
+}
